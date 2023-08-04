@@ -1,5 +1,4 @@
 {
-  "version": "2.0.0",
   "private": true,
   "scripts": {
     "build": "pnpm build:all && pnpm build:copy",
@@ -74,5 +73,6 @@
         "webpack"
       ]
     }
-  }
+  },
+  "version": "0.1.0"
 }
