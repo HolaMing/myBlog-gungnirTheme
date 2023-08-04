@@ -78,3 +78,6 @@ touch .release-it.json
 }
 ```
 4. pnpm release
+# 5.reference
+<https://zhuanlan.zhihu.com/p/396636794>  
+<https://zhuanlan.zhihu.com/p/619659218>
