@@ -81,3 +81,5 @@ touch .release-it.json
 # 5.reference
 <https://zhuanlan.zhihu.com/p/396636794>  
 <https://zhuanlan.zhihu.com/p/619659218>
+<https://www.conventionalcommits.org/zh-hans/v1.0.0/>
+<https://www.cnblogs.com/linhuiy/p/15896611.html>
