@@ -21,7 +21,7 @@ jobs:
       - name: Install pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: 6
+          version: 8.6.10
 
       # 配置 Node.js
       - name: Setup Node.js
@@ -37,6 +37,9 @@ jobs:
       # 打包并生成静态文件
       - name: Build site
         run: pnpm build
+      
+      # 打包docs
+      - run: pnpm docs:build
 
       # 推送静态文件到 gh-pages 分支
       - name: Deploy

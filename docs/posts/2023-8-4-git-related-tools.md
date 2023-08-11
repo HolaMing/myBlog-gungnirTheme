@@ -82,4 +82,6 @@ touch .release-it.json
 <https://zhuanlan.zhihu.com/p/396636794>  
 <https://zhuanlan.zhihu.com/p/619659218>
 <https://www.conventionalcommits.org/zh-hans/v1.0.0/>
-<https://www.cnblogs.com/linhuiy/p/15896611.html>
+<https://www.cnblogs.com/linhuiy/p/15896611.html>  
+[约定式提交 (conventionalcommits.org)](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
+[Commit Message 规范 - 她微笑的脸 - 博客园 (cnblogs.com)](https://www.cnblogs.com/linhuiy/p/15896611.html)
