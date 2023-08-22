@@ -4,7 +4,7 @@ title: Git相关规范管理工具
 date: 2023-08-04  
 author:   Richer 
 useHeaderImage: true
-headerImage: /img/in-post/2023-8-3/5.png
+headerImage: /img/in-post/2023-8-3/2.jpg
 headerMask: rgba(40, 57, 101, .4)
 catalog: false
 tags: 
