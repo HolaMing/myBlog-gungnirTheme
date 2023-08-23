@@ -74,12 +74,12 @@ export default defineUserConfig({
       avatar: "/img/avatar.jpeg",
       description: "Explore the fun, wander the universe",
       sns: {
-        // github: "Renovamen",
+        github: "HolaMing",
         // linkedin: "xiaohan-zou-55bba0160",
         // facebook: "renovamen.zou",
         // twitter: "renovamen_zxh",
         // zhihu: "chao-neng-gui-su",
-        // email: "renovamenzxh@gmail.com",
+        email: "cash2more@gmail.com",
         // rss: "/rss.xml",
         // customized sns
         bilibili: {
@@ -91,43 +91,47 @@ export default defineUserConfig({
 
     // header images on home page
     homeHeaderImages: [
-      // {
-      //   path: "/img/home-bg/1.jpg",
-      //   mask: "rgba(40, 57, 101, .4)"
-      // },
+      {
+        path: "/img/home-bg/1.png"
+      }
       // {
       //   path: "/img/home-bg/2.jpg",
-      //   mask: "rgb(251, 170, 152, .2)"
       // },
       // {
-      //   path: "/img/home-bg/3.jpg",
-      //   mask: "rgba(68, 74, 83, .1)"
+      //   path: "/img/home-bg/3.png",
       // },
       // {
       //   path: "/img/home-bg/4.jpg",
-      //   mask: "rgba(19, 75, 50, .2)"
+      // },
+      // {
+      //   path: "/img/home-bg/5.jpg"
+      // },
+      // {
+      //   path: "/img/home-bg/6.jpg"
+      // },
+      // {
+      //   path: "/img/home-bg/7.jpg"
+      // },
+      // {
+      //   path: "/img/home-bg/8.jpg"
+      // },
+      // {
+      //   path: "/img/home-bg/9.jpg"
+      // },
+      // {
+      //   path: "/img/home-bg/10.png"
       // }
-      {
-        path: "/img/home-bg/5.png"
-        // mask: "rgba(19, 75, 50, .2)",
-      }
     ],
 
     // other pages
     pages: {
       tags: {
-        subtitle: "On My Way",
+        title: "Docs",
+        subtitle: "This's the way.",
         bgImage: {
-          path: "/img/pages/tags.jpg",
-          mask: "rgba(211, 136, 37, .5)"
-        }
-      },
-      links: {
-        subtitle:
-          "When you are looking at the stars, please put the brightest star shining night sky as my soul.",
-        bgImage: {
-          path: "/img/pages/links.jpg",
-          mask: "rgba(64, 118, 190, 0.5)"
+          // path: "https://picsum.photos/2060/300",
+          path: "/img/pages/1.png",
+          mask: "rgba(0, 0, 0,.4)"
         }
       }
     },
@@ -166,10 +170,10 @@ export default defineUserConfig({
       mermaid: true,
       chartjs: true,
       giscus: {
-        repo: "This-is-an-Apple/gitalk-comments",
-        repoId: "MDEwOlJlcG9zaXRvcnkyMTA1MjQyMTQ=",
-        category: "Announcements",
-        categoryId: "DIC_kwDODIxYNs4CAO1u",
+        repo: "HolaMing/myBlog-gungnirTheme",
+        repoId: "R_kgDOKDO65g",
+        category: "General",
+        categoryId: "DIC_kwDOKDO65s4CYyv7",
         lazyLoad: true
       },
       mdPlus: {
@@ -177,10 +181,10 @@ export default defineUserConfig({
       },
       ga: "G-EE8M2S3MPB",
       ba: "10b7bc420625758a319d6b23aed4700f",
-      rss: {
-        siteURL: "https://v2.vuepress-theme-gungnir.vercel.app",
-        copyright: "Renovamen 2018-2022"
-      },
+      // rss: {
+      //   siteURL: "https://v2.vuepress-theme-gungnir.vercel.app",
+      //   copyright: "Renovamen 2018-2022"
+      // },
       pwa: true,
       search: false // use @vuepress/plugin-docsearch instead
     },
