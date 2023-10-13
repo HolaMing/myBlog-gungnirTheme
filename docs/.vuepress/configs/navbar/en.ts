@@ -14,7 +14,7 @@ export const en: NavbarConfig = [
   },
   {
     text: "Tools",
-    link: "/",
+    link: "https://holaming.github.io/MyWeb01/",
     icon: "la-toolbox-solid"
   },
   {
