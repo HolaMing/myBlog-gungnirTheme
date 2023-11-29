@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,b as r}from"./app.69ba7f4b.js";const _={},c=r("p",null,"Just celebrate the first page building.",-1),l=[c];function o(a,i){return t(),s("div",null,l)}var d=e(_,[["render",o],["__file","2023-8-3-first-build.html.vue"]]);export{d as default};
