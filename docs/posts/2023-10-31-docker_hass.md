@@ -34,7 +34,7 @@ docker run -d --name="hass" -v C:/hass/config:/config -p 8123:8123 image-id
 ```bash
 #进入hass目录,安装hacs
 docker exec -it hass bash
-wget -p -o - https://get.hacs.xyz |bash -
+wget -O - https://get.hacs.xyz | bash -
 ```
 ## 2.4 添加设备
 
@@ -51,5 +51,6 @@ wget -p -o - https://get.hacs.xyz |bash -
 # 4.参考资料
 [Windows 10 - Docker — 从入门到实践 (gitbook.io)](https://yeasy.gitbook.io/docker_practice/install/windows)  
 [Docker部署homeassitant - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/522550319)  
+[User Documentation | HACS](https://hacs.xyz/docs/user/)  
 [无硬件 | 本地电脑docker运行homeassistant | homeassistant安装 | 智能家居系列教程]( https://www.bilibili.com/video/BV1ak4y167gQ/?share_source=copy_web&vd_source=0a84b68dfae2da46ea8442d9af037e5c)  
 [小白成神之路，网络知识看这一期足矣！软路由 桥接 端口转发 旁路由 单臂路由 IPv4 IPv6 DDNS](https://www.bilibili.com/video/BV1Gz4y1r791/?share_source=copy_web&vd_source=0a84b68dfae2da46ea8442d9af037e5c)
