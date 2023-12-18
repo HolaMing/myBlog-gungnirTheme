@@ -4,7 +4,7 @@ title: ESP8266官方SDK环境搭建
 date: 2023-11-29
 author:   Richer 
 useHeaderImage: true
-headerImage: /img/in-post/2023-11-29/2.jpg
+headerImage: /img/in-post/2023-11-29/3.jpg
 headerMask: rgba(40, 57, 101, .4)
 catalog: false
 tags: 
